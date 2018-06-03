@@ -41,6 +41,7 @@ Customer
 - セッターメソッドは`self`レシーバーを呼び出さないと、ローカル変数への代入と勘違いされる
 - 構造化されているデータを扱う時は、hashよりもstructを使うと良い
 - hashとstructの主な違いは、定義がないkeyにアクセスした時に`no_method_error`が出るか`nil`が返ってくるか
+- do-end block で囲めばメソッドもラフに定義できる
 
 ```
 Readind = Struct.new(:date, :high, :law) do
