@@ -58,4 +58,8 @@ https://www.slideshare.net/herumi/mcl-71379100
 from 趙先生
 
 テーマを決めるときは、大きなテーマを決めて、制約条件を決めてやるようにする
-ペアリング暗号
+
+ペアリング暗号関連
+twitter? hackersnew で紹介されていたやつ。
+https://arxiv.org/pdf/1702.07588.pdf
+https://blog.n1analytics.com/homomorphic-encryption-illustrated-primer/
