@@ -58,3 +58,4 @@ https://www.slideshare.net/herumi/mcl-71379100
 from 趙先生
 
 テーマを決めるときは、大きなテーマを決めて、制約条件を決めてやるようにする
+ペアリング暗号
